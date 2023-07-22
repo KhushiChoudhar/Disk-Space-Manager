@@ -22,3 +22,6 @@ Key Features:
 9. **Selective Duplicate Deletion:** With , you are in control. Use checkboxes to select which duplicate files you want to delete, preventing accidental removal of important data.
 
 10. **User-Friendly Interface:** We understand the importance of simplicity. Our intuitive and user-friendly interface makes disk management a breeze for users of all levels.
+
+    ![image](https://github.com/KhushiChoudhar/Disk-Space-Manager/assets/104776552/5c3e288c-6753-4879-a314-4c9a26a20a87)
+
