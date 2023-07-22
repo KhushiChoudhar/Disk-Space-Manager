@@ -1,6 +1,8 @@
 # Space Master
 Are you tired of running out of disk space on your computer? Are you struggling to find and delete large, unnecessary files that are clogging up your storage? Look no further! __Space Master__ is your ultimate solution for efficient disk space management.
 
+ ![image](https://github.com/KhushiChoudhar/Disk-Space-Manager/assets/104776552/5c3e288c-6753-4879-a314-4c9a26a20a87)
+ 
 Key Features:
 
 1. **Free Space Display**: Stay informed about the available free space on your disk with real-time updates.
@@ -23,5 +25,14 @@ Key Features:
 
 10. **User-Friendly Interface:** We understand the importance of simplicity. Our intuitive and user-friendly interface makes disk management a breeze for users of all levels.
 
-    ![image](https://github.com/KhushiChoudhar/Disk-Space-Manager/assets/104776552/5c3e288c-6753-4879-a314-4c9a26a20a87)
+
+    __Showing Disk Utilization__
+
+    ![image](https://github.com/KhushiChoudhar/Disk-Space-Manager/assets/104776552/30b33730-7d98-4b8f-a387-985d4e567bc1)
+
+
+    __Functionalitity of deleting selected duplicate files__
+    
+    ![image](https://github.com/KhushiChoudhar/Disk-Space-Manager/assets/104776552/f3ae6c79-f42d-434b-aba2-65056c728238)
+
 
