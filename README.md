@@ -1,7 +1,8 @@
 # Space Master
 Are you tired of running out of disk space on your computer? Are you struggling to find and delete large, unnecessary files that are clogging up your storage? Look no further! __Space Master__ is your ultimate solution for efficient disk space management.
 
- ![image](https://github.com/KhushiChoudhar/Disk-Space-Manager/assets/104776552/5c3e288c-6753-4879-a314-4c9a26a20a87)
+ ![image](https://github.com/KhushiChoudhar/Disk-Space-Manager/assets/104776552/d34bdfae-c75e-4f85-be62-4373b2dd74b0)
+
  
 Key Features:
 
